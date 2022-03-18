@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String handle01(){
-        return "Hello, Spring Boot 2!";
+        return "Hello, Spring Boot 2!我又来了";
     }
 
 }
